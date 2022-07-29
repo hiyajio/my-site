@@ -34,7 +34,7 @@
     "gatsby-transformer-sharp": "^2.3.7",
     "hooks": "^0.3.2",
     "jquery": "^3.6.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
